@@ -1,0 +1,5 @@
+name: "./visdroneDataset1/images/train/"
+val: "./visdroneDataset1/images/validation/"
+
+nc: 10
+names: ["Pedestrian", "People", "Bicycle", "Car", "Van", "Truck", "Tricycle", "Awning-tricycle", "Bus", "Motor", "Others"]
